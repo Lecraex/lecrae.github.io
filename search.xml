@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>京准通产品架构</title>
+      <link href="/post/5/"/>
+      <url>/post/5/</url>
+      
+        <content type="html"><![CDATA[<h1 id="营销产品"><a href="#营销产品" class="headerlink" title="营销产品"></a>营销产品</h1><h2 id="搜索广告"><a href="#搜索广告" class="headerlink" title="搜索广告"></a>搜索广告</h2><pre><code>    京东快车        站内搜索结果页【‘广告’字样】        CPM/CPC    京搜客        站外搜索引擎，如百度        CPC</code></pre><h2 id="展示广告"><a href="#展示广告" class="headerlink" title="展示广告"></a>展示广告</h2><pre><code>    京东展位        站内首焦&amp;分类banner【APP 2、3、5、6帧；PC首焦&amp;右侧分类】        CPM    京东直投        站外腾讯、头条、百度等媒体资源【含 广告 标识】        CPM/CPC</code></pre><h2 id="信息流广告"><a href="#信息流广告" class="headerlink" title="信息流广告"></a>信息流广告</h2><pre><code>    购物触点        资源位【无指定坑位，出价越高越靠前】            购物前：首页为你推荐            购物中：商详页、购物车推荐            购物后：支付、订单页        CPC/CPM</code></pre><h2 id="付佣广告"><a href="#付佣广告" class="headerlink" title="付佣广告"></a>付佣广告</h2><pre><code>    裂变广告        站外微信朋友圈、公众号、微信群等【含 广告 标识】        CPM/CPC    京挑客【不成交不收费】        发现好货、京东快报、站外导购、返利等        CPA/CPS</code></pre><h1 id="场景产品"><a href="#场景产品" class="headerlink" title="场景产品"></a>场景产品</h1><h2 id="品牌广告"><a href="#品牌广告" class="headerlink" title="品牌广告"></a>品牌广告</h2><pre><code>｜ RTB    产品优势        黄金位置 强势曝光            突出品牌调性，APP首焦优质曝光展示资源        多维定向 精准投放            支持多维度定向，根据投放场景圈选TA人群，精准广告展现        数据服务 4A营销            数据可沉淀至DMP\数坊内，支持二次营销、4A数据流转        保价保量 保底CTR            保证目标人群保量展示            提供类目保底CTR投放基线，改善粗犷型投放    APP首焦        位置：第2/3/5/6帧不固定位置    PC首焦        位置：第2/3/5帧不固定位置    优先级  CPD&gt;GD&gt;PD</code></pre><h2 id="海投广告"><a href="#海投广告" class="headerlink" title="海投广告"></a>海投广告</h2><pre><code>    日常推广    ｜ 1.全店商品    ｜ 2.日销型持续投放    ｜ 3.按资源划分不同计划        经典海投（原属快车下海投计划）            同快车资源位，打造爆款后在快车做个性化投放        首焦海投            针对商品推广，位置在首页焦点图，与京东展位资源相邻        PUSH海投            手机通知栏    时效推广    ｜ 1.时效类商品    ｜ 2.时效期内投放    ｜ 3.按商品类型分不同计划        闪购计划            含【闪购】标签的海投搜索位&amp;推荐位        新品计划            含【新品】标签的海投搜索位&amp;推荐位    活动推广    ｜ 1.活动页投放    ｜ 2.活动期投放    ｜ 3.打造活动类资源的聚合池，为活动引流        活动海投            针对活动页推广，为活动引流</code></pre><h2 id="联合活动"><a href="#联合活动" class="headerlink" title="联合活动"></a>联合活动</h2><pre><code>    支持站内外核心资源    ｜ 站内资源：京东展位 购物触点    ｜ 站外资源：站外直投，即腾讯、头条、百度、抖音、快手、京X资源    支持多种类型广告主参加    ｜ 采销组织：支持POP商家、品牌商、供应商参与    ｜ 自主发起：支持POP商家在生态部联合营销系统自主发起联合活动    计费方式    ｜ 广告主按出资比例计费    ｜ 站内外资源先冻款，按最后一天一次性扣费    商家权限、商家支付以及合同签署    ｜ 参与联合活动期间按商家PIN自动开通权限    ｜ 商家线上签署合同、线上支付以及设置跟单SKU、线上开票</code></pre><h1 id="营销工具"><a href="#营销工具" class="headerlink" title="营销工具"></a>营销工具</h1><h2 id="DMP"><a href="#DMP" class="headerlink" title="DMP"></a>DMP</h2><pre><code>    DMP是涵盖京东用户数据、客户自由CRM信息，帮助广告主实现可预估、精准化定向投放，提供大数据驱动的新用户拓展和流量转化的智能营销能力</code></pre><h2 id="创意库"><a href="#创意库" class="headerlink" title="创意库"></a>创意库</h2><pre><code>    整合各个产品线的创意，便于管理    提供制作图片工具，在线制作更便捷    可制作视频创意以及投放媒介【头条、腾讯、快手、联盟流量】</code></pre><h2 id="行业大盘"><a href="#行业大盘" class="headerlink" title="行业大盘"></a>行业大盘</h2><pre><code>    行业趋势分析以、预测及优化方向以及店铺整体表现等</code></pre><h2 id="MTA（策略中心数据分析模型）"><a href="#MTA（策略中心数据分析模型）" class="headerlink" title="MTA（策略中心数据分析模型）"></a>MTA（策略中心数据分析模型）</h2><pre><code>    多维度数据以及强大的算法模型        产品优势            覆盖消费者品牌关系4A全链路            整合京准通主要业务路线            ｜ 京东展位、京东快车、购物触点、京东海投、京东直投、京搜客            多维度、多粒度数据            高效定位投放发力点，准确识别优化方向        模型算法            用数据说话，纯粹的数据驱动            识别触点增益收益            模型参数全面            ｜ 广告强度、广告时间、广告类型/位置，竞品广告影响            ｜ 用户特异性、品牌与品类差异性    4A关系链路        AWARE 认知        APPEL 吸引        ACT 行动        ADVOCATE 拥护    识别增益收益    全面、可执行的洞察结果    转化效果归因    品牌认知归因京东数坊(数据银行)</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 全域营销工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 京准通营销工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>People have to go through at least one hike.</title>
+      <link href="/post/1/"/>
+      <url>/post/1/</url>
+      
+        <content type="html"><![CDATA[<p>“Have you ever thought about getting off here?”</p><p>“Numerous times.”</p><p>This is the most impressive impression of Wugong Mountain in autumn.</p><p>The idea of going hiking was a few years ago when I heard my friend talk about carrying dozens of kilograms of equipment, using aluminum cloth as a heating pad, and eating noodles in the cold snow. I have never had a chance to try.</p><p>Since the beginning of the school year, the studio decoration has attended classes and meetings in round of clinical treatment. Entering another stage of life, it is at a loss and hustle. More accurately, the restlessness generated after determining a node last year finally can’t help it. On the first weekend in the full sense, the booking of tickets began and restarted the travel plan completely disrupted by the epidemic. With the rhythm of life. Anyway, it seems that there is something that is slowly approaching what I have been looking for, although I don’t know what it is. But take your time. It can always be smoothed.<br>The journey was set to go out without brains at the beginning. The travel equipment was delayed on the road on Double Eleven, and the jacket was also sent from home urgently. It can be said that I received the goods three hours before departure.</p><p>I went to the convenience store temporarily to buy a few bags of dry food and two bottles of water, went back to the dormitory to pack and set out in the twilight. As a result, I failed to take more water, carry it to the top of the mountain and carry it back. The bags are getting lighter and lighter, and I just haven’t changed at all (even feel heavier in the end). My clothes were also saved at the foot of the mountain without thinking, took some personal clothes and went on foot without fear.</p><p>Oh, when I came back, I joked with my friends that this may be the most awkward, gray-faced and most unimagely travel I have experienced so far. It is not easy to see me like this: fancy slipping and wrestling, losing balance and rolling down the hillside, trembling to climb and down the mountain with stones. My autobiography has another unforgettable chapter. It’s the festival.</p><p>It’s hard to imagine that I climbed and rolled countless such slopes.<br>However, exhaustion can still give people a different experience, just like the happiness after working out and getting through the tired period. People have to go through at least one hike or rock climbing, whether it is willpower, control, endurance, or other things, it can bring more challenges and thinking to themselves.<br>I met a group of lovely friends again. Isn’t it true that memories are the feelings brought by the people accompanying you at that time. Communication with people in different majors or industries or ages can always bring different thoughts and inspirations.</p><p>No more words</p><p>Look at the picture</p><p>There are too many beautiful photos.</p><p>It is more impressive to see on the ground.</p><p>Promise me</p><p>I have a chance to go.</p><p>Finally arrived at the big meadow.</p><p>Watch the sunset after arriving at the inn</p><p>It happened to capture this gap.</p><p>The sky opposite the sunset</p><p>It’s colorful.</p><p>Layer by layer</p><p>It feels very good.</p><p>Watch the sunrise early the next day.<br>Go back to the hillside taken for breakfast.<br>I can’t imagine barefoot from the inn.<br>Along such a path<br>Climb to the place to watch the sunrise</p><p>My climbing stick<br>Because I was so excited to arrive at the inn the night before.<br>Put it aside<br>It was found missing on the second day.<br>Later, it didn’t rely on any assistance.<br>After climbing the whole journey<br>I admire myself so much.</p><p>Although I was ready to return, I would be turned around by work + study, but I was still caught off guard. From the moment I saw the flow of people after getting off the train, I was quite deeply touched when I was called back to reality. In the future, time and energy will only become less and less, but I still set aside a blank time a week for myself - whether it is dancing, playing the piano, cooking and reading, etc., it is always necessary to keep something and not lose the original idea. Thinking of going to practice the piano last week, I came back with a handful of ukulelele, and then another hobby can be included in the blank and idle time in a daze.</p><p> NICE!</p><p>A !</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Life Style </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 旅行 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
