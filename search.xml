@@ -85,31 +85,6 @@
     
     
     <entry>
-      <title>数据分析思维与实践</title>
-      <link href="/post/997/"/>
-      <url>/post/997/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 数据分析 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 思维 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>组织行为学与实际研究</title>
       <link href="/post/999/"/>
       <url>/post/999/</url>
@@ -130,9 +105,34 @@
             
             <tag> 社会学 </tag>
             
+            <tag> 计算机科学 </tag>
+            
             <tag> 工程学 </tag>
             
-            <tag> 计算机科学 </tag>
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>数据分析思维与实践</title>
+      <link href="/post/997/"/>
+      <url>/post/997/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 数据分析 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 思维 </tag>
             
         </tags>
       
